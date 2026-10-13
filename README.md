@@ -1,4 +1,4 @@
-# QHHLA-SoftEdu (Quantum HHL Algorithm - Software Education)
+# Quantum HHL Algorithm - Software Education
 
 **QHHLA-SoftEdu** is an educational computational tool designed to support the teaching and deep understanding of the Harrow-Hassidim-Lloyd (HHL) quantum algorithm. Acting as an interactive "virtual laboratory," it allows users to solve linear systems of equations ($Ax=b$) while visualizing the sequential evolution of quantum registers step-by-step. By breaking down the "black box" of quantum computing, this software facilitates the didactic transposition of complex concepts for students and researchers.
 
