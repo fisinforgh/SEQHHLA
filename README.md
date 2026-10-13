@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Replace with your actual logo path once uploaded to GitHub -->
-  <img width="400" src="Icons/APP.png" alt="QHHLA-SoftEdu Logo">
+  <img width="400" src="QHHLA_SoftEdu/Icons/APP.png" alt="QHHLA-SoftEdu Logo">
 </p>
 
 ## 🌟 Key Features
