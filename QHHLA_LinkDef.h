@@ -1,0 +1,1 @@
+#pragma link C++ class QHHLA_SoftEdu; // Cambia el guion medio por guion bajo
